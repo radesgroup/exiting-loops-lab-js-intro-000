@@ -17,3 +17,7 @@ function breakOut(array, changeValue, stopValue){
            }
        } return array
    }
+
+function findBy(array, findFn){
+  
+}
