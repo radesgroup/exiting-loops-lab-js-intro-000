@@ -19,5 +19,5 @@ function breakOut(array, changeValue, stopValue){
    }
 
 function findBy(array, findFn){
-  
+  return 
 }
