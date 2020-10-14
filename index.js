@@ -22,7 +22,5 @@ function findBy(array, findFn){
   array.forEach(x => !x)
   if (!array){
 return array
-  }else{
-     return 
-}
+  }
 }
