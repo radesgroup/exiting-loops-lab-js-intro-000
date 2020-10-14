@@ -20,7 +20,7 @@ function breakOut(array, changeValue, stopValue){
 
 function findBy(array, findFn){
   array.forEach(x => !x)
-  if !array:{
+  if (!array){
 return
   }else{
      return array
