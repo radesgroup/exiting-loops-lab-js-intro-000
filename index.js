@@ -21,8 +21,8 @@ function breakOut(array, changeValue, stopValue){
 function findBy(array, findFn){
   array.forEach(x => !x)
   if (!array){
-return
+return array
   }else{
-     return array
+     return 
 }
 }
